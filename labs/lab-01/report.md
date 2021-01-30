@@ -5,4 +5,4 @@
 ### discord handle: DankStar#1121
 ![Mack](/labs/lab-01/pic.jpg)
 
-#Readings
+# Readings
