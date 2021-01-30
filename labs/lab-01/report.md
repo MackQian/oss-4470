@@ -3,4 +3,4 @@
 ### email: qianm@rpi.edu 
 ### github account: MackQian
 ### discord handle: DankStar#1121
-![Mack](/profilepic2.0.jpg)
+![Mack](/labs/lab01/profilepic2.0.jpg)
