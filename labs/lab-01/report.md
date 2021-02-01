@@ -17,5 +17,14 @@ I feel that asking should be a last resort after you've seemingly tried everythi
 ## Free Culture
 I thought this was pretty informative piece. I had heard of a RPI student getting in trouble for piracy but didn't actually know that how he actually went about it. Now I know that while he wasn’t actually actively encouraging piracy to happen, his search engine system was abused by other users which resulted in the RIAA suing him. However, I do feel that the lawsuit was pretty unjust and kind of scummy on the part of the RIAA. But I feel perhaps maybe he should have put some sort of moderation with his engine, though that would be very difficult to do and might not help much. I think this kind of shows the double-edged sword of making stuff available to people. You can have people do cool things with it and make new innovations, but also get people who will use it to do bad. This could happen with open source projects as well, so I think this maybe be something to keep in mind for project managers whether or not they should make their projects open source.
 
+# Linux
+![tree](/labs/lab-01/lab01treeman.png)
 
+# Regex
+![regex1](/labs/lab-01/lab01regex1.png)
+![regex2](/labs/lab-01/lab01regex2.png)
+![regex3](/labs/lab-01/lab01regexcrossword.png)
+
+# Blockly
+![maze](/labs/lab-01/lab01blockly.png)
 
