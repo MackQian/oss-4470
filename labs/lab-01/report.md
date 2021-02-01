@@ -5,7 +5,7 @@
 ### discord handle: DankStar#1121
 ![Mack](/labs/lab-01/pic1.jpg)
 
-#Discord
+# Discord
 
 
 # Readings
@@ -28,3 +28,6 @@ I thought this was pretty informative piece. I had heard of a RPI student gettin
 # Blockly
 ![maze](/labs/lab-01/lab01blockly.png)
 
+# Reflection
+
+I think a cool open source project to evaluate would be [Tensorflow](https://github.com/tensorflow/tensorflow), an open source ML platform. It is pretty popular and well known within the machine learning community and helps researchers and other users easily set up ML for their purposes. They provide many common functions and methods to accomplsih this. I think it would be really interesting to look at how they manage such a big project and also some of the technology it uses. This includes stuff like CUDA GPU support and optimizes math for ML purposes. As for starting project of my own, I think I would want to make something web-based. I'm thinking maybe I could make a multiplayer game or something, but I want to focus on something with web development because I haven't done anything like that ever before. I will probably use something like Node or React, but I would need to investigate further.
