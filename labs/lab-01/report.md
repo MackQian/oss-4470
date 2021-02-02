@@ -1,7 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
 
 # Discord
-
+![msg](/labs/lab-01/lab01msg.png)
 
 # Readings
 ## How To Answer Questions in a Helpful Way
