@@ -1,6 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
 
 # Discord
+Handle: DankStar#1121
 ![msg](/labs/lab-01/lab01msg.png)
 
 # Readings
