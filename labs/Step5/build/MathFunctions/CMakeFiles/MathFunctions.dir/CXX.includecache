@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/q/Github repos/cmake/Help/guide/tutorial/Step5/MathFunctions/MathFunctions.h
+
+/mnt/q/Github repos/cmake/Help/guide/tutorial/Step5/MathFunctions/mysqrt.cxx
+cmath
+-
+iostream
+-
+MathFunctions.h
+/mnt/q/Github repos/cmake/Help/guide/tutorial/Step5/MathFunctions/MathFunctions.h
+
