@@ -1,6 +1,7 @@
 # Checkpoint 1
 ![wow](./lab07_1.png)
 ![wow](./lab07_2.png)
+
 # Checkpoint 2
 Click on the build name, then navigate to the test summary, then it shows you all tests with the failed tests at the top
 
@@ -13,9 +14,19 @@ The dashboard is clean and has no errors.
 
 CDash submission: https://open.cdash.org/build/7136775
 ![wow](./lab07_5.png)
-
+# Checkpoint 3
 Error on Copyright:
+
 ![wow](./lab07_6.png)
+
 Narrows it down by saying that the copyright failed, we fix it by updating 2020 to 2021
 
 ![wow](./lab07_7.png)
+
+# Checkpoint 4 
+[Repo](https://github.com/MackQian/repoForCI)
+![wow](./lab07_8.png)
+![wow](./lab07_9.png)
+
+# Checkpoint 5
+![wow](./lab07_10.png)
