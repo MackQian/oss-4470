@@ -1,0 +1,9 @@
+FROM node:10.15.3
+ENV LAST_UPDATED 20190325T175400
+COPY . /app
+WORKDIR /app
+RUN npm install
+RUN npm audit fix
+EXPOSE 1337
+CMD ["node","app.js"]
+
